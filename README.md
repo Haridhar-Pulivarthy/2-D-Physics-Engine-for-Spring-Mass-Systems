@@ -4,8 +4,8 @@ This is a 2-D physics engine that I'm building for a larger game development pro
 
 So far, I'm working on implementing the physics for simple spring-mass systems.
 
-The primary focus (at the moment) is building force generators for gravity and static forces
-since those are necessary for basically any physics engine.
+My current focus is building force generators for gravity and static forces
+since those are necessary for basically any game.
 
 Primary Components:
   1. System State: a structure that tracks various object properties, e.g. position, velocity,
